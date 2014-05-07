@@ -42,39 +42,38 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
-/*-----------------reset---------------*/
-
 *
 {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
+/*-----------------reset---------------*/
 
 .wrapper
 {
-	width: 1050px;
+  width: 960px;
 	margin: 0 auto;
-
-	
+  position: relative;
 }
 
-.logo
-{
-	width: 211px;
-	height: 111px;
-	background-image: url(../img/logo.jpg);
-  background-repeat: no-repeat;
-	margin-bottom: 5px 0;
-}
-
-#the_article
+#side-bar
 {
 	width: 211px;	
+  height: 100%;
 	float: left;
 	list-style: none;
-	margin: 0 8px;
+	position: fixed;
+  top: 0;
+  left: 0;
 }
-
+.logo
+{
+  width: 211px;
+  height: 111px;
+  background-image: url(../img/logo.jpg);
+  background-repeat: no-repeat;
+  margin-bottom: 5px 0;
+}
 
 nav
 {
@@ -223,7 +222,7 @@ footer, header, hgroup, menu, nav, section {
     width: 830px;  /* sacar el % */
     max-width:830px;
     margin: 0 auto;
-    float: left;
+    float: right;
 }
 h2 {
     color: #D1C8BA;
