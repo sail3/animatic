@@ -12,6 +12,7 @@
 	background-image: url(../img/logo.jpg);
   background-repeat: no-repeat;
 	margin-bottom: 5px 0;
+  border-radius: 23px 0 23px 0;
 
 }
 
@@ -151,10 +152,7 @@ a{
 .clr{
   clear: both;
 }
-.main{
-  position:relative;
-    width:680px;
-    margin: 0 auto;
+
     
 }
 h1{

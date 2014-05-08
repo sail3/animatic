@@ -23,19 +23,22 @@ a{
 	text-decoration: none;
 }
 
-.menu{
-	width: 211px;
-	height: 600px;
-	
-	float: left;
-
-}
 
 .main{
 	position:relative;
-    width:680px;
+    width: 680px;
     margin: 0 auto;
     float: left;
+}
+
+
+
+.info
+{
+	width: 143px;
+	height: 300px;
+	float: left;
+
 }
 /*h1{
 	margin:0px;
