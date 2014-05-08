@@ -5,13 +5,12 @@
 	   	<section id="contenedor-main" class="main">
 		   	<div class="flexslider">
 		        <ul class="slides">
-		            <li><img src="img/vinifan.jpg" /></li>			             
+		            <li><img src="img/vinifan.jpg" /></li>    
 		            <li><img src="img/generade.jpg"/></li>
 		            <li><img src="img/chicolac.jpg" /></li>
 		            <li><img src="img/manichobom.jpg" /></li>
 		            <li><img src="img/rose.jpg" /></li>
 		            <li><img src="img/pan.jpg" /></li>
-
 		        </ul>
 		    </div>
 

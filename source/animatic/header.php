@@ -9,10 +9,19 @@
         <meta name="keywords" content="css3, transitions, thumbnail, animation, hover, effect, description, caption" />
         <meta name="author" content="Alessio Atzeni for Codrops" />
         <link rel="shortcut icon" href="../favicon.ico"> 
+    
+        <script src="js/jquery.js" type="text/javascript"></script>
+        <script src="js/jquery.flexslider-min.js" type="text/javascript"></script>
+        <script src="js/myscript.js" type="text/javascript"></script>
+
         <link rel="stylesheet" type="text/css" href="css/demo.css" />
         <link rel="stylesheet" type="text/css" href="css/style_common.css" />
+        
+        <link rel="stylesheet" type="text/css" href="css/flexslider.css" />
+        
         <link rel="stylesheet" type="text/css" href="css/style1.css" />
         <link rel="stylesheet" type="text/css" href="css/style2.css" />
+
         <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css' />
     </head>
     <body>
