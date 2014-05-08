@@ -29,6 +29,7 @@ a{
     width: 680px;
     margin: 0 auto;
     float: left;
+    text-align: center;
 }
 
 
@@ -40,15 +41,29 @@ a{
 	float: left;
 
 }
-/*h1{
+.vinifan-identidad
+{
+	width: 823px;	
+	float: left;
+
+}
+
+.identidad img
+{	
+	text-align: center;
+	 box-shadow: 0 10px rgba(100, 100, 100, 0.2) inset,0px -0.5px 7.5px #CCC;
+	 margin-bottom:20px;
+}
+
+h1{
 	margin:0px;
-	padding:20px 20px 10px 20px;
-	font-size:34px;
+	padding: 0 20px 10px 13px;
+	font-size:30px;
 	color:#333;
     text-shadow:1px 1px 1px #fff;
 	text-align:left;
 	font-weight:400;
-    text-align:center;
+    
 }
 h1 span{
     display:block;
