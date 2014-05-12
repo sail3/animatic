@@ -236,16 +236,18 @@ h2 {
 
 /*     inicio de productos  */
 
+
+
 .productos{
   float:left;
-  width:830px;
+  width: 830px;
   height:auto;
- 
   }
+  
 .cont_interior{
   float:left
   }
-.cuadrito{
+.sec1-item01{
   float:left;
   width:205px;
   height:208px;

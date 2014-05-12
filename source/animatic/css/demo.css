@@ -13,7 +13,7 @@ body{
 
 }
 .wrapper{
-	width: 1050px;
+	width: 1100px;
 	position: relative;
 	margin: 0 auto;
 
@@ -73,6 +73,102 @@ h1 span{
 	color:#b2891b;
 	padding-top:10px;
 }
+/* Index Elements */
+#contenedor-main {
+	display: block;
+	width: 840px;
+	float: left;
+}
+.clear{
+	clear: both;
+}
+.sec1-item01,
+.sec1-item02,
+.sec1-item04,
+.sec1-item05 {
+	float: left;
+	margin: 0 10px 10px 10px;
+	display: block;
+	border-radius: 20px;
+}
+.sec1-item03,
+.sec1-item06 {
+	display: block;
+	float: right;
+	border-radius: 20px;
+}
+.sec1-item03 {
+	
+	margin-left: 10px;
+}
+.sec1-item04 {
+	width: 400px;
+}
+.sec1-item05 {
+	width: 203px;
+}
+.sec1-item02,
+.sec1-item05{
+	margin: 0 0 10px 0;
+}
+.s2 {
+	height: 815px;
+	overflow: hidden;
+}
+.sec2-item01,
+.sec2-item04,
+.sec2-item06{
+	float: left;
+	border-radius: 20px 0;
+}
+
+.sec2-item02,
+.sec2-item03,
+.sec2-item05 {
+	float: right;
+	margin: 0 0 10px 5px;
+	border-radius: 20px 0;
+}
+
+.sec2-item02,
+.sec2-item03 {
+	height: 401px;
+	overflow: hidden;
+}
+
+
+.sec3-item01,
+.sec3-item03,
+.sec3-item06,
+.sec3-item07{
+	float: left;
+	border-radius: 20px 0;
+}
+.sec3-item02,
+.sec3-item04,
+.sec3-item05 {
+	float: right;
+	border-radius: 20px 0;
+}
+.sec4-item01{
+	float: left;
+	border-radius: 20px 0;
+}
+.sec4-item02 {
+	float: right;
+	border-radius: 20px 0;
+}
+.sec3-item07 {
+	margin-left: 10px;
+}
+.bor-rad {
+	border-radius: 20px 0;
+}
+/* Fin index Elements */
+
+
+
+
 /* Header Style */
 /*.header{
 	font-family:'Arial Narrow', Arial, sans-serif;
