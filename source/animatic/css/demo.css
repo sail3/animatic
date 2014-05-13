@@ -25,15 +25,16 @@ a{
 .main{
 	position:relative;
     width: 680px;
-    float: left;
+    float: right;
     text-align: center;
+    margin-right: 20px;
 }
 .info
 {
 	width: 143px;
 	height: 300px;
-	float: left;
-
+	float: right;
+	margin-right: 30px;
 }
 .descripcion-info{
 	float: right;
@@ -42,7 +43,10 @@ a{
 {
 	width: 823px;	
 	float: right;
-
+}
+.vinifan-identidad article .main, .vinifan-identidad article .info {
+	float: left;
+	margin: 0px;
 }
 
 .identidad img
