@@ -26,14 +26,16 @@ a{
 	position:relative;
     width: 680px;
     margin: 0 auto;
-    float: left;
+    float: right;
     text-align: center;
+    margin-right: 20px;
 }
 .info
 {
 	width: 143px;
 	height: 300px;
-	float: left;
+	float: right;
+	margin-right: 30px;
 
 }
 .vinifan-identidad

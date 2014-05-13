@@ -1,8 +1,9 @@
 <?php include('header.php'); ?>
         <div class="wrapper">   <!-- ----------inicio de wrapper--------- -->     
             <?php include('sidebar.php'); ?>
-                                 
-            <div class="main"> <!-- ----------inicio de main--------- -->
+            <div class=" info"><p>INFORMACIÓN</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, ratione, nesciunt, nemo recusandae veniam magnam modi laboriosam illo consequatur in culpa dolorem corporis repellat eveniet dicta error illum. Asperiores, at.</p>
+            </div><!-- fin de info -->                  
+            <section class="main"> <!-- ----------inicio de main--------- -->
                 <div class="view view-first">
                     <img src="img/algarra.jpg" />
                     <div class="mask">
@@ -29,11 +30,10 @@
                 </div>  
                 <div class="view view-first">
                     <a href="vinifan.php">
-                            <img src="img/vinifan2.jpg" />
+                        <img src="img/vinifan2.jpg" />
                         <div class="mask">
                             <h2>VINIFAN</h2>
                             <p>A wonderful serenity has taken possession of my entire soul.taken possession of soul.</p>
-                            
                         </div>
                     </a>
                 </div>  
@@ -133,10 +133,7 @@
                         
                     </div>
                 </div> 
-            </div>   <!-- fin de main -->
-
-            <div class=" info"><p>INFORMACIÓN</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, ratione, nesciunt, nemo recusandae veniam magnam modi laboriosam illo consequatur in culpa dolorem corporis repellat eveniet dicta error illum. Asperiores, at.</p>
-            </div><!-- fin de info -->  
+            </section>   <!-- fin de main --> 
         </div>   
         <!-- ----------fin de wrapper--------- -->
 

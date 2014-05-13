@@ -24,7 +24,7 @@
      			</ul>
      		</li>
      		<li class="parent"><a href="packagin.php">PACKAGING</a></li>
-     		<li class="contacto"><a href="javascript:">CONTACTO</a></li>
+     		<li class="contacto"><a href="contacto.php">CONTACTO</a></li>
      	</ul>
 	</nav>
 		<div class="direccion">	 		

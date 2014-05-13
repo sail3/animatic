@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
  	<div class="wrapper">
 		<?php include('sidebar.php'); ?>
-	   	<item-hover section id="contenedor-main" >
+	   	<section id="contenedor-main" >
 		   	<div class="flexslider">
 		        <ul class="slides">
 		            <li><img src="img/vinifan.jpg" /></li>    
@@ -292,7 +292,7 @@
 					</div>
 				</div>
 			</div> <!-- FIN DE PRODUCTOS --> 
-		</item-hover section>   <!-- FIN DE item-hover secTION -->
+		</section>   <!-- FIN DE item-hover secTION -->
  	</div>	<!--fin de wrapper-->
 
 <!-- Fin de etiquetas generales -->
