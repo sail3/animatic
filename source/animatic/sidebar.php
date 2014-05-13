@@ -18,12 +18,12 @@
      			<a href="portafolio.php">PORTAFOLIO</a>
      			<ul>
      				<li><a href="identidaddemarca.html">Identidad de marca</a></li>
-     				<li><a href="packaging.html">Packaging</a></li>
      				<li><a href="materialimpreso.html">Material Impreso</a></li>
      				<li><a href="retail.html">Retail</a></li>
      				<li><a href="casos.html">Casos</a></li>
      			</ul>
      		</li>
+     		<li class="parent"><a href="packagin.php">PACKAGING</a></li>
      		<li class="contacto"><a href="javascript:">CONTACTO</a></li>
      	</ul>
 	</nav>

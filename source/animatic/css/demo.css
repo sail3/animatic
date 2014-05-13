@@ -1,9 +1,9 @@
 @import url('reset.css');
 /* General Demo Style */
 body{
-    background:#f9f9f9 url(../img/white_texture.jpg) repeat top left;
+    /*background:#f9f9f9 url(../img/white_texture.jpg) repeat top left;*/
 	color: #333;
-	font-family: 'Oswald', Arial, sans-serif;
+	font-family: 'Arial Black', Arial, sans-serif;
 	font-size: 13px;
 }
 
@@ -22,8 +22,6 @@ a{
 	color: #fff;
 	text-decoration: none;
 }
-
-
 .main{
 	position:relative;
     width: 680px;
@@ -31,9 +29,6 @@ a{
     float: left;
     text-align: center;
 }
-
-
-
 .info
 {
 	width: 143px;
@@ -74,13 +69,20 @@ h1 span{
 	padding-top:10px;
 }
 /* Index Elements */
+#side-bar {
+	position: fixed;
+}
 #contenedor-main {
 	display: block;
 	width: 840px;
-	float: left;
+	position: absolute;
+	right: 30px;
 }
 .clear{
 	clear: both;
+}
+.section-productos {
+	margin: 5px 0;
 }
 .sec1-item01,
 .sec1-item02,
@@ -90,26 +92,44 @@ h1 span{
 	margin: 0 10px 10px 10px;
 	display: block;
 	border-radius: 20px;
+	overflow: hidden;
 }
 .sec1-item03,
 .sec1-item06 {
 	display: block;
 	float: right;
 	border-radius: 20px;
-}
-.sec1-item03 {
-	
-	margin-left: 10px;
-}
-.sec1-item04 {
-	width: 400px;
-}
-.sec1-item05 {
-	width: 203px;
+	overflow: hidden;
 }
 .sec1-item02,
 .sec1-item05{
 	margin: 0 0 10px 0;
+}
+.sec1-item01 {
+	height: 206px;
+	width: 206px;
+}
+.sec1-item02 {
+	height: 205px;
+	width: 395px;
+}
+.sec1-item03 {
+	width: 205px;
+	height: 425px;
+	margin-left: 10px;
+}
+.sec1-item04 {
+	width: 400px;
+	height: 401px;
+	
+}
+.sec1-item05 {
+	width: 203px;
+	height: 206px;
+}
+.sec1-item06 {
+	width: 415px;
+	height: 185px;
 }
 .s2 {
 	height: 815px;
@@ -120,22 +140,41 @@ h1 span{
 .sec2-item06{
 	float: left;
 	border-radius: 20px 0;
+	margin-top: 5px;
+	overflow: hidden;
 }
-
 .sec2-item02,
 .sec2-item03,
 .sec2-item05 {
 	float: right;
 	margin: 0 0 10px 5px;
 	border-radius: 20px 0;
-}
-
-.sec2-item02,
-.sec2-item03 {
-	height: 401px;
 	overflow: hidden;
 }
-
+.sec2-item01 {
+	width: 206px;
+	height: 206px;
+}
+.sec2-item02 {
+	width: 205px;
+	height: 424px;
+}
+.sec2-item03 {
+	width: 405px;
+	height: 401px;
+}
+.sec2-item04 {
+	width: 205px;
+	height: 425px;
+} 
+.sec2-item05 {
+	width: 626px;
+	height: 377px;
+}
+.sec2-item06 {
+	width: 206px;
+	height: 206px;
+}
 
 .sec3-item01,
 .sec3-item03,
@@ -143,26 +182,84 @@ h1 span{
 .sec3-item07{
 	float: left;
 	border-radius: 20px 0;
+	overflow: hidden;
+	margin-left: 10px;
+	margin-top: 3px;
 }
 .sec3-item02,
 .sec3-item04,
 .sec3-item05 {
 	float: right;
 	border-radius: 20px 0;
+	overflow: hidden;
+	margin-right: 10px;
+	margin-top: 3px;
+}
+.sec3-item01 {
+	width: 396px;
+	height: 205px;
+}
+.sec3-item02 {
+	width: 405px;
+	height: 400px;
+}
+.sec3-item03 {
+	width: 405px;
+	height: 400px;
+}
+.sec3-item04 {
+	width: 192px;
+	height: 580px;
+}
+.sec3-item05 {
+	width: 208px;
+	height: 208px;
+}
+.sec3-item06 {
+	width: 206px;
+	height: 426px;
+} 
+
+.sec3-item07 {
+	width: 406px;
+	height: 402px;
+	margin-left: 10px;
 }
 .sec4-item01{
+	width: 406px;
+	height: 402px;
 	float: left;
 	border-radius: 20px 0;
+	overflow: hidden;
 }
 .sec4-item02 {
+	width: 406px;
+	height: 402px;
 	float: right;
 	border-radius: 20px 0;
-}
-.sec3-item07 {
-	margin-left: 10px;
+	overflow: hidden;
 }
 .bor-rad {
 	border-radius: 20px 0;
+	position: relative;
+}
+.item-hover a:hover {
+	background-color: #239;
+
+}
+.show-info {
+	position: absolute;
+	display: block;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,255,0.5);
+}
+.show-info ul {
+	margin-top: 20%;
+	margin-left: 30%;
+	list-style-type: circle;
 }
 /* Fin index Elements */
 

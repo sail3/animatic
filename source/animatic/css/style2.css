@@ -40,7 +40,7 @@ nav li a{
    color:#777772;
    text-decoration:none;
    padding: 5px;
-   font-family: 'often', serif;
+   /*font-family: 'often', serif;*/
    display:block;
    font-size: 15px;
    border-top: 1px solid #003ab1;

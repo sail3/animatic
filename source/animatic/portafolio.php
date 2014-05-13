@@ -8,7 +8,7 @@
                     <div class="mask">
                         <h2>ALGARRA</h2>
                         <p>A wonderful serenity has taken possession of my entire soul.taken possession o  soul.</p>
-                        <a href="#" class="info">Read More</a>
+                        
                     </div>
                 </div>  
                 <div class="view view-first">
@@ -16,7 +16,7 @@
                     <div class="mask">
                         <h2>FLORENCIA</h2>
                         <p>A wonderful serenity has taken possession of my entire soul.taken possession of soul.</p>
-                        <a href="#" class="info">Read More</a>
+                        
                     </div>
                 </div>  
                 <div class="view view-first">
@@ -24,7 +24,7 @@
                     <div class="mask">
                         <h2>BALANZE</h2>
                         <p>A wonderful serenity has taken possession of my entire soul.taken possession o  soul.</p>
-                        <a href="#" class="info">Read More</a>
+                        
                     </div>
                 </div>  
                 <div class="view view-first">
@@ -33,7 +33,7 @@
                         <div class="mask">
                             <h2>VINIFAN</h2>
                             <p>A wonderful serenity has taken possession of my entire soul.taken possession of soul.</p>
-                            <a href="#" class="info">Read More</a>
+                            
                         </div>
                     </a>
                 </div>  
@@ -42,7 +42,7 @@
                     <div class="mask">
                         <h2>FIESTA</h2>
                         <p>A wonderful serenity has taken possession of my entire soul.taken possession o  soul.</p>
-                        <a href="#" class="info">Read More</a>
+                        
                     </div>
                 </div>  
                 <div class="view view-first">
@@ -50,7 +50,7 @@
                     <div class="mask">
                         <h2>TOTTUS</h2>
                         <p>A wonderful serenity has taken possession of my entire soul.taken possession of soul.</p>
-                        <a href="#" class="info">Read More</a>
+                        
                     </div>
                 </div>  
                 <div class="view view-first">
@@ -58,7 +58,7 @@
                     <div class="mask">
                         <h2>BORDEN</h2>
                         <p>A wonderful serenity has taken possession of my entire soul.taken possession o  soul.</p>
-                        <a href="#" class="info">Read More</a>
+                        
                     </div>
                 </div>  
                 <div class="view view-first">
@@ -66,7 +66,7 @@
                     <div class="mask">
                         <h2>BELLS</h2>
                         <p>A wonderful serenity has taken possession of my entire soul.taken possession of soul.</p>
-                        <a href="#" class="info">Read More</a>
+                        
                     </div>
                 </div> 
                     <div class="view view-first">
@@ -74,7 +74,7 @@
                     <div class="mask">
                         <h2>RICO</h2>
                         <p>A wonderful serenity has taken possession of my entire soul.taken possession o  soul.</p>
-                        <a href="#" class="info">Read More</a>
+                        
                     </div>
                 </div>  
                 <div class="view view-first">
@@ -82,7 +82,7 @@
                     <div class="mask">
                         <h2>CHIPS</h2>
                         <p>A wonderful serenity has taken possession of my entire soul.taken possession of soul.</p>
-                        <a href="#" class="info">Read More</a>
+                        
                     </div>
                 </div>  
                 <div class="view view-first">
@@ -90,7 +90,7 @@
                     <div class="mask">
                         <h2>COLANTA</h2>
                         <p>A wonderful serenity has taken possession of my entire soul.taken possession o  soul.</p>
-                        <a href="#" class="info">Read More</a>
+                        
                     </div>
                 </div>  
                 <div class="view view-first">
@@ -98,7 +98,7 @@
                     <div class="mask">
                         <h2>CHICOLAC</h2>
                         <p>A wonderful serenity has taken possession of my entire soul.taken possession of soul.</p>
-                        <a href="#" class="info">Read More</a>
+                        
                     </div>
                 </div> 
                     <div class="view view-first">
@@ -106,7 +106,7 @@
                     <div class="mask">
                         <h2>FILLER</h2>
                         <p>A wonderful serenity has taken possession of my entire soul.taken possession o  soul.</p>
-                        <a href="#" class="info">Read More</a>
+                        
                     </div>
                 </div>  
                 <div class="view view-first">
@@ -114,7 +114,7 @@
                     <div class="mask">
                         <h2>ALPESA</h2>
                         <p>A wonderful serenity has taken possession of my entire soul.taken possession of soul.</p>
-                        <a href="#" class="info">Read More</a>
+                        
                     </div>
                 </div>  
                 <div class="view view-first">
@@ -122,7 +122,7 @@
                     <div class="mask">
                         <h2>POLIN PLAST</h2>
                         <p>A wonderful serenity has taken possession of my entire soul.taken possession o  soul.</p>
-                        <a href="#" class="info">Read More</a>
+                        
                     </div>
                 </div>  
                 <div class="view view-first">
@@ -130,7 +130,7 @@
                     <div class="mask">
                         <h2>VAMYS</h2>
                         <p>A wonderful serenity has taken possession of my entire soul.taken possession of soul.</p>
-                        <a href="#" class="info">Read More</a>
+                        
                     </div>
                 </div> 
             </div>   <!-- fin de main -->
