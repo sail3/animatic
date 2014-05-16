@@ -6,7 +6,7 @@
 		</div>
     <nav>
      	<ul>
-     		<li class="parent">
+     		<li class="parent first">
      			<a href="javascript:">NOSOTROS</a>
 				<ul>
 					<li><a href="quienessomos.html">Quienes somos</a></li>
@@ -24,12 +24,13 @@
      				<li><a href="casos.html">Casos</a></li>
      			</ul>
      		</li>
+     		<li class="slogan">Le damos valor a su marca.</li>
      		<li class="contacto"><a href="contacto.php">CONTACTO</a></li>
      	</ul>
 	</nav>
 		<div class="direccion">	 		
-			<p>Contacto Tel : (511) 578-2068</p>
-			<p>Email: contacto@animatic/brand.com</p>
+			<p>T: (511) 578-2068</p>
+			<p>contacto@animatic/brand.com</p>
 		</div>
 		<div class="social-media">
 			<ul>

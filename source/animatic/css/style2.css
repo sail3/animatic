@@ -37,16 +37,13 @@ nav li{
    position:relative; /* importante, para que el submenu tome la posición correcta*/
 }
 nav li a{
-   color:#777772;
+   color: #003ab1;
    text-decoration:none;
    padding: 5px;
    /*font-family: 'often', serif;*/
    display:block;
    font-size: 15px;
-   border-top: 1px solid #003ab1;
-
-
-  
+   border-top: 1px solid #777772;  
 }
 nav li a:hover{
   color:#fff;
@@ -60,8 +57,9 @@ nav li a:hover{
   -ms-transition: all .7s;
   -o-transition: all .7s;
   transition: all .7s;
-
-  
+}
+.first a {
+  border-top: 0;
 }
 
 nav li.parent:hover{
@@ -106,7 +104,12 @@ nav li:hover ul {
   float: left;
   margin: 2px;
 }
-
+.slogan {
+  color: #003ab1;
+  font-weight: bold;
+  position: absolute;
+  top: 480px;
+}
 
  .direccion
  {
@@ -118,7 +121,7 @@ nav li:hover ul {
 {
   position: absolute;
   top:500px;
-  border-bottom:1px solid #003ab1;
+  border-bottom:1px solid #777772;
   width: 211px;
 }
 .contacto:hover
