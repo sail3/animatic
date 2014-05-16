@@ -18,15 +18,13 @@
                     <div class="main">                               
                         <div class="identidad"><img src="img/info-vivifan2.jpg" /></div>
                     </div>
-                    <div class="info"><p>INFORMACIÓN</p><p>Estamos en condiciones de realizar esta tarea hábil creando diseños innovadores que se adapten a la perfección con sus valores centrales del negocio permitiendo que su empresa se ​​destaque aún más para un mayor potencial de éxito en un mercado altamente competitivo.</p>
-                    </div><!-- fin de info -->  
+                    <!-- fin de info -->  
                 </article>
                 <article class="descripcion-item">
                     <div class="main">                               
                         <div class="identidad"><img src="img/info-vivifan3.jpg" /></div>
                     </div>
-                    <div class="info"><p>INFORMACIÓN</p><p>Estamos en condiciones de realizar esta tarea hábil creando diseños innovadores que se adapten a la perfección con sus valores centrales del negocio permitiendo que su empresa se ​​destaque aún más para un mayor potencial de éxito en un mercado altamente competitivo.</p>
-                    </div><!-- fin de info --> 
+                    <!-- fin de info --> 
                 </article>
 
             </div>
